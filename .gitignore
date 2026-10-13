@@ -1,0 +1,10 @@
+# Original program and its extracted pieces are not part of this project
+*.exe
+*.dll
+decompiled/
+
+# IDE and Python
+.idea/
+*.iml
+__pycache__/
+*.pyc
